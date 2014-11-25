@@ -2,7 +2,7 @@
 title: WNY Human Rights Clinic
 email: wnyhrc@gmail.com
 description: Home base for the efforts of the WNYHRC
-baseurl: "wnyhrc"
+baseurl: "/wnyhrc"
 url: "http://wnyhrc.org"
 #twitter_username:
 #github_username:
