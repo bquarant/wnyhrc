@@ -1,0 +1,54 @@
+.navbar-brand {
+          color: black !important;
+          font-size: 24px;
+          font-weight: 700;
+      }
+      .navbar{
+            font-family: 'Open Sans Condensed', sans-serif;
+      }
+
+
+      .stroke {
+        fill: none;
+        stroke: #888;
+        stroke-width: 2px;
+      }
+
+      .fill {
+        fill: #fff;
+      }
+
+      .graticule {
+        fill: none;
+        stroke: #777;
+        stroke-width: .5px;
+        stroke-opacity: .5;
+      }
+
+      .land {
+        fill: #222;
+      }
+
+      .boundary {
+        fill: none;
+        stroke: #fff;
+        stroke-width: .5px;
+      }
+      .country {
+          fill: steelblue;
+          stroke: white;
+      }
+      .svg-container {
+        display: inline-block;
+        position: relative;
+        width: 100%;
+        vertical-align: top;
+        overflow: hidden;
+        }
+     .svg-content-responsive {
+        display: inline-block;
+        position: relative;
+        top: 10px;
+        left: 0;
+        width: 100%;
+        }
