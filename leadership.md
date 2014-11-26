@@ -3,7 +3,7 @@ layout: page
 title: Clinic Leadership
 permalink: /leadership/
 ---
-
+<br>
 ![kathleen-soltis](http://placehold.it/140x140, "Kathleen Soltis") Kathleen Soltis, MS2
 
 ![diva-wilson](http://placehold.it/140x140, "Diva Wilson") Diva Wilson, MS2

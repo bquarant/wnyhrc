@@ -5,31 +5,7 @@
         left: 0;
         width: 100%;
         z-index: 2;
-    }
-
-
-.content{
-      position: relative;
-      padding-top: 38%;
-      z-index: 3;
 }
-
-footer {
-  z-index: 3;
-  width: 100%;
-}
-
-h4 {
-  text-align: center;
-}
-
-
-.navbar-brand {
-          font-family: 'Open Sans Condensed', sans-serif;
-          color: black !important;
-          font-size: 18px;
-          font-weight: 700;
-      }
 
   .stroke {
         fill: none;
