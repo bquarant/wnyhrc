@@ -2,39 +2,23 @@
 layout: default
 ---
 
-
 <div class="content">
     <div class="col-md-12">
+        <div class="jumbotron">
 
-    <div class="jumbotron">
+            <div class="post">
 
-<div class="post">
+            <header class="post-header">
+                <h2 class="post-title">{{ page.title }}</h2>
+            </header>
 
-  <header class="post-header">
-    <h2 class="post-title">{{ page.title }}</h2>
-  </header>
+            <article class="post-content">
+                {{ content }}
+            </article>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+            </div>
 
-</div>
-
-
-    <br>
-</div>
-
-
-    <!-- Footer content living here temporarily because soy noob" -->
-      <div class="jumbotron">
-        <div class="row">
-            <div class="col-sm-4"><h4><small><a href="{{ site.baseurl}}/who-we-are/">WHO WE ARE</a></small></h4></div>
-            <div class="col-sm-4"><h4><small><a href="#">GET INVOLVED</a></small></h4></div>
-            <div class="col-sm-4"><h4><small><a href="#">RESOURCES</a></small></h4></div>
         </div>
-      </div>
 
     </div>
-    </div>
-
 </div>
