@@ -2,22 +2,26 @@
 layout: default
 ---
 
-<div class="home">
+<div class="content">
+    <div class="col-md-12">
 
-  <h1 class="page-heading">Posts</h1>
+    <div class="jumbotron">
+      <ul class="pull-right">
+        {% for post in site.posts %}
+            <h3>
+              <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <br>
+                <span class="pull-right"><small>{{ post.date | date: "%-d %B %Y" }}</small></span>
+            </h3>
+        {% endfor %}
+      </ul>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <br>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac ex sed elit tincidunt varius sed non lectus. Nullam id maximus diam. Aenean a metus at ipsum pretium pulvinar ornare id metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut euismod lobortis sapien in laoreet. Nam ligula ex, pretium eu nulla vel, faucibus bibendum nibh. Morbi eu libero a quam consequat malesuada nec non dolor. Morbi sollicitudin dolor in nisl gravida pulvinar. Sed non lectus a diam ultrices aliquet ac quis nunc. Nullam vehicula mi ut metus viverra, quis vestibulum arcu rutrum. Sed placerat sollicitudin tellus, a ultrices quam varius at. Quisque posuere semper vehicula.
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin vitae sapien tempor, iaculis elit eget, ullamcorper sapien. Fusce velit tortor, condimentum ut suscipit quis, finibus ac velit. Duis vitae purus magna. Pellentesque pulvinar felis quis pellentesque rhoncus. Sed aliquam ullamcorper nunc, nec consectetur ante condimentum imperdiet. Maecenas pulvinar maximus justo, et malesuada nunc suscipit dapibus. Quisque imperdiet imperdiet erat non sodales. Nunc elementum velit non tortor venenatis, vitae eleifend orci pulvinar. Praesent pretium accumsan mauris in vestibulum. Vivamus ac ante commodo, facilisis felis sit amet, finibus orci. Aenean mauris ex, euismod et ullamcorper faucibus, pretium ac magna. Morbi magna lacus, elementum nec elit at, consequat lobortis turpis. Mauris viverra urna eu purus tempor, sed commodo felis tristique. Pellentesque at ante lacus. Praesent tincidunt ex mi, placerat aliquam mi vehicula non.</p>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+    </div>
+    </div>
 </div>
