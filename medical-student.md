@@ -5,5 +5,3 @@ permalink: /medical-student/
 ---
 <br>
 Medical students!
-
-Testing testing testing...
