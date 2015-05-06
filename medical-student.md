@@ -5,4 +5,3 @@ permalink: /medical-student/
 ---
 <br>
 Medical students!
-
