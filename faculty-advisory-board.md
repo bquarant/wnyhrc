@@ -4,7 +4,7 @@ title: Faculty Advisory Board
 permalink: /faculty-advisory-board/
 ---
 <br>
-![griswold](http://placehold.it/140x140, "Dr. Kim Griswold") &nbsp;&nbsp; **Dr. Kim Griswold <small>MD MPH</small>**
+<img src="{{ site.baseurl }}/img/people/griswold.jpg" width="140"/>&nbsp;&nbsp; **Dr. Kim Griswold <small>MD MPH</small>**
 
 Dr. Griswold attended medical school at SUNY Buffalo and completed her family medicine residency at Buffalo General Hospital in 1997. Dr. Griswold is a family physician, trained to care for infants, children, adults and elderly, men and women. She has additional training in obstetrics and gynecology, including caring for women who have had female genital cutting.  
 
