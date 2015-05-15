@@ -12,9 +12,3 @@ Clinical evaluations occur for asylum seekers in order to establish the facts su
 Licensed clinicians provide the level of expertise needed for a valid evaluation. Specialists (such as psychiatrists and gynecologists), primary care physicians, and licensed psychologists can conduct these evaluations, depending on the needs of the client. In some cases, asylum seekers may have multiple evaluations; a client may need a medical examination to document scars and a psychological examination to document PTSD and depression. 
 
 In an evaluation, the evaluator will ask a client for a thorough history of his or her torture and other traumatic events, assess the client for possible abuse sequelae, document the psychological and physical evidence of torture, and state the degree of consistency between the narrative that the client has given and the evidence of torture that is found.
-
-The clinician is to be an objective evaluator in the assessment of clients.
-
-<br>
-
-To request an evaluation... **pending**
