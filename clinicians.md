@@ -4,4 +4,3 @@ title: Clinicians
 permalink: /clinicians/
 ---
 <br>
-Clinicians!

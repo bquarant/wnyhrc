@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Clinic Leadership
+title: Student Leadership
 permalink: /leadership/
 ---
 <br>
@@ -14,11 +14,13 @@ permalink: /leadership/
 
 ### Class of 2017
 
-![chris-manschreck](http://placehold.it/140x140, "Chris Manschreck")&nbsp;&nbsp; **Chris Manschreck**
+![kathleen-soltis](http://placehold.it/140x140, "Kathleen Soltis")&nbsp;&nbsp; **Kathleen Soltis**
 
 ![brian-quaranto](http://placehold.it/140x140, "Brian Quaranto")&nbsp;&nbsp; **Brian Quaranto**
 
-![kathleen-soltis](http://placehold.it/140x140, "Kathleen Soltis")&nbsp;&nbsp; **Kathleen Soltis**
+![chris-manschreck](http://placehold.it/140x140, "Chris Manschreck")&nbsp;&nbsp; **Chris Manschreck**
+
+
 
 <br>
 
