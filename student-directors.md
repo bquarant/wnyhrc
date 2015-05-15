@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Student Leadership
-permalink: /leadership/
+title: Student Directors
+permalink: /student-directors/
 ---
 <br>
 
