@@ -1,19 +1,14 @@
 ---
 layout: default
 ---
-<br></br>
 <div class="content">
     <div class="col-md-2">
     </div>
     <div class="col-md-8">
         <div class="jumbotron">
-            <div class="row">
-                <ul>
-                     {% for post in site.posts %}
-                        <div id="splash"> {{ post.content | strip_html | truncatewords:150}}</div>
-                     {% endfor %}
-                </ul>
-            </div>
+               <div id="splash">
+                   {% include splash.html %}
+               </div>
         </div>
     </div>
     <div class="col-md-2">
