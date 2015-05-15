@@ -4,16 +4,24 @@ title: Clinic Leadership
 permalink: /leadership/
 ---
 <br>
-![kathleen-soltis](http://placehold.it/140x140, "Kathleen Soltis") Kathleen Soltis, MS2
 
-![diva-wilson](http://placehold.it/140x140, "Diva Wilson") Diva Wilson, MS2
+### Class of 2016
+![lauren-jepsen](http://placehold.it/140x140, "Lauren Jepsen")&nbsp;&nbsp; **Lauren Jepsen**
 
-![brian-quaranto](http://placehold.it/140x140, "Brian Quaranto") Brian Quaranto, MS2
+![sarah-riley](http://placehold.it/140x140, "Sarah Riley")&nbsp;&nbsp; **Sarah Riley**
 
-![sarah-riley](http://placehold.it/140x140, "Sarah Riley") Sarah Riley, MS3
+<br>
 
-![lauren-jepsen](http://placehold.it/140x140, "Lauren Jepsen") Lauren Jepsen, MS3
+### Class of 2017
 
+![chris-manschreck](http://placehold.it/140x140, "Chris Manschreck")&nbsp;&nbsp; **Chris Manschreck**
 
+![brian-quaranto](http://placehold.it/140x140, "Brian Quaranto")&nbsp;&nbsp; **Brian Quaranto**
 
+![kathleen-soltis](http://placehold.it/140x140, "Kathleen Soltis")&nbsp;&nbsp; **Kathleen Soltis**
 
+<br>
+
+### Class of 2018
+	
+![rachel-engelberg](http://placehold.it/140x140, "Rachel Engelberg")&nbsp;&nbsp; **Rachel Engelberg**
