@@ -1,32 +1,21 @@
 ---
 layout: default
 ---
-
+<br></br>
 <div class="content">
-    <div class="col-md-12">
-
-    <div class="jumbotron">
-        <div class="row">
-          <ul>
-            {% for post in site.posts %}
-                <h2>
-                  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  <br>
-                  <span><small>{{ post.date | date: "%-d %B %Y" }}</small></span>
-                </h2>
-                  <br>
-                <p>
-                 {{ post.content | strip_html | truncatewords:75}}
-                </p>
-            {% endfor %}
-          </ul>
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-8">
+        <div class="jumbotron">
+            <div class="row">
+                <ul>
+                     {% for post in site.posts %}
+                        <div id="splash"> {{ post.content | strip_html | truncatewords:150}}</div>
+                     {% endfor %}
+                </ul>
+            </div>
         </div>
     </div>
+    <div class="col-md-2">
     </div>
-
-
-
-    </div>
-    </div>
-
 </div>
