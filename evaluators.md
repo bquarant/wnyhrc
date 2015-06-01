@@ -7,7 +7,7 @@ permalink: /evaluators/
 - **Dr. Kim Griswold** <small>MD MPH</small>
 
 - **Dr. Cynthia Pristach** <small>MD</small>
-- 
+
 - **Dr. Dori Marshall** <small>MD</small>
 
 - **Anna Skop** <small>MS LMHC</small>
