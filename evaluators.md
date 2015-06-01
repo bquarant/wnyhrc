@@ -10,6 +10,8 @@ permalink: /evaluators/
 
 - **Anna Skop** <small>MS LMHC</small>
 
+- **Elizabeth Woike-Ganga** <small>LCSW-R</small>
+
 <br>
 
 ### Medical Student Scribes
