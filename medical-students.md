@@ -9,11 +9,7 @@ In an evaluation, the evaluating clinician will ask a client for a thorough hist
 
 Medical students will serve as scribes during this process. This requires them to take detailed notes of the client's history as obtained during the evaluation. Once the interview is completed and all parties feel as though they understand the client's case, a physical examination is performed on the client. Students will help document any physical evidence during this component of the evaluation. Students then prepare a draft of the narrative portion of the legal affidavit that can be incorporated into the final document prepared by the evaluating physician to be used in the client's case in immigration court.
 
-Students must undergo formal training at a Physicians for Human Rights Asylum Training event prior to serving as a medical scribe for the WNYHRC. This is a 9 hour conference designed to educate medical students, physicians, lawyers, etc. on how to effectively investigate and document torture in asylum-seekers. Those who attend the training sessions are taught about immigration law, the asylum process, and how to properly identify physical and psychological sequelae of trauma and torture. 
-
-
-
-
+Students must undergo formal training at a Physicians for Human Rights Asylum Training event prior to serving as a medical scribe for the WNYHRC. These training events are full day conferences designed to educate medical students, physicians, lawyers, and other professionals how to effectively investigate and document torture in asylum-seekers. Those who attend the training sessions are taught about immigration law, the asylum process, and how to properly identify physical and psychological sequelae of trauma and torture.  
 
 <br>
 	
@@ -59,3 +55,9 @@ Though your primary role during the interview is to listen and scribe, you are a
 Clients who are affiliated with the WNY Center for Survivors of Torture are required to attend a debriefing session with the case worker at JFS.
 
 Typically, once the client leaves, the students will spend a few minutes debriefing with the attending. You should then coordinate with the other student scribe(s) how you will divide up work on the affidavit. A shared google doc is usually helpful because both parties can edit it in real time.
+
+<br>
+	
+**I'm still interested! How can I get involved?**
+<br>
+Send us an email at <a href="mailto:wnyhrc@gmail.com?Subject=I want to get involved with the WNYHRC!">wnyhrc@gmail.com</a> and we can keep you posted on training opportunities!
