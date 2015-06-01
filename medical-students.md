@@ -5,11 +5,14 @@ permalink: /medical-students/
 ---
 <br>
 
-The goal of a medical affidavit is to record evidence of physical and psychological trauma as an objective medical professional. Students drafting affidavits are not yet qualified to draw medical conclusions about clients- however, students can still make a significant contribution by preparing a draft of the narrative portion of the affidavit that can then be incorporated into the final document prepared by the evaluating physician.
+In an evaluation, the evaluating clinician will ask a client for a thorough history of his or her torture and other traumatic events, assess the client for possible abuse sequelae, document the psychological and physical evidence of torture, and state the degree of consistency between the narrative that the client has given and the evidence of torture that is found.
 
-The students scribing for a forensic exam are responsible for submitting a draft of the affidavit to the attending physician w​ithin 2 weeks o​f the exam, unless otherwise specified (we sometimes receive urgent referrals requiring quicker responses).
+Medical students will serve as scribes during this process. This requires them to take detailed notes of the client's history as obtained during the evaluation. Once the interview is completed and all parties feel as though they understand the client's case, a physical examination is performed on the client. Students will help document any physical evidence during this component of the evaluation. Students then prepare a draft of the narrative portion of the legal affidavit that can be incorporated into the final document prepared by the evaluating physician to be used in the client's case in immigration court.
 
-Students must undergo formal training at a Physicians for Human Rights Asylum Training event prior to serving as a medical scribe for the WNYHRC. However, we're always looking for motivated medical students to assist in physician recruitment and other development projects.
+Students must undergo formal training at a Physicians for Human Rights Asylum Training event prior to serving as a medical scribe for the WNYHRC. This is a 9 hour conference designed to educate medical students, physicians, lawyers, etc. on how to effectively investigate and document torture in asylum-seekers. Those who attend the training sessions are taught about immigration law, the asylum process, and how to properly identify physical and psychological sequelae of trauma and torture. 
+
+
+
 
 
 <br>
