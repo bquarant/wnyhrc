@@ -6,24 +6,22 @@ permalink: /student-directors/
 <br>
 
 ### Class of 2016
-![lauren-jepson](https://cloud.githubusercontent.com/assets/12274060/7918181/7a3c4daa-085d-11e5-886c-ff978c3972a6.JPG "Lauren Jepson")&nbsp;&nbsp; **Lauren Jepson**
+<img src="{{ site.baseurl }}/img/people/ljepson.jpg" width="140"/> &nbsp; &nbsp; **Lauren Jepson**
 
-![sarah-riley](http://placehold.it/140x140, "Sarah Riley")&nbsp;&nbsp; **Sarah Riley**
+<img src="{{ site.baseurl }}/img/people/sarahril.jpg" width="140"/> &nbsp;&nbsp; **Sarah Riley**
 
 <br>
 
 ### Class of 2017
 
-![kathleen-soltis](http://placehold.it/140x140, "Kathleen Soltis")&nbsp;&nbsp; **Kathleen Soltis**
+<img src="{{ site.baseurl }}/img/people/ksoltis.jpg" width="140"/> &nbsp;&nbsp; **Kathleen Soltis**
 
-![brian-quaranto](http://placehold.it/140x140, "Brian Quaranto")&nbsp;&nbsp; **Brian Quaranto**
+<img src="{{ site.baseurl }}/img/people/brianqua.jpg" width="140"/> &nbsp;&nbsp; **Brian Quaranto**
 
-![chris-manschreck](http://placehold.it/140x140, "Chris Manschreck")&nbsp;&nbsp; **Chris Manschreck**
-
-
+<img src="{{ site.baseurl }}/img/people/cmanschr.jpg" width="140"/> &nbsp;&nbsp; **Chris Manschreck**
 
 <br>
 
-### Class of 2018
+### Class of 2017
 	
-![rachel-engelberg](http://placehold.it/140x140, "Rachel Engelberg")&nbsp;&nbsp; **Rachel Engelberg**
+<img src="{{ site.baseurl }}/img/people/rengelbe.jpg" width="140"/> &nbsp;&nbsp; **Rachel Engelberg**
