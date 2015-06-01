@@ -6,7 +6,7 @@ permalink: /student-directors/
 <br>
 
 ### Class of 2016
-![lauren-jepson](http://placehold.it/140x140, "Lauren Jepson")&nbsp;&nbsp; **Lauren Jepson**
+![lauren-jepson](https://cloud.githubusercontent.com/assets/12274060/7918181/7a3c4daa-085d-11e5-886c-ff978c3972a6.JPG "Lauren Jepson")&nbsp;&nbsp; **Lauren Jepson**
 
 ![sarah-riley](http://placehold.it/140x140, "Sarah Riley")&nbsp;&nbsp; **Sarah Riley**
 
