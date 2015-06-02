@@ -22,6 +22,6 @@ permalink: /student-directors/
 
 <br>
 
-### Class of 2017
+### Class of 2018
 	
 <img src="{{ site.baseurl }}/img/people/rengelbe.jpg" width="140"/> &nbsp;&nbsp; **Rachel Engelberg**
