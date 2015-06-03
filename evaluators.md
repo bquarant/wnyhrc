@@ -39,13 +39,13 @@ permalink: /evaluators/
 
 - **Frank Marino** <small>MS4</small>
 
-- **Katie Wood** <small>MS4</small>
+- **Katie Wood** <small>MS2</small>
 
 - **Madeline Rose** <small>MS3</small>
 
 - **Matt Bond** <small>MS2</small>
 
-- **Megan Gaugler** <small>MS4</small>
+- **Megan Gaugler** <small>MS2</small>
 
 - **Nick Georgalas** <small>MS3</small>
 
