@@ -19,27 +19,25 @@ permalink: /evaluators/
 ### Medical Student Scribes
 
 
-- **Lauren Jepson** <small>MS4</small>
 
-- **Sarah Riley** <small>MS4</small>
-
-- **Brian Quaranto** <small>MS3</small>
-
-- **Kathleen Soltis** <small>MS3</small>
-
-- **Diva Wilson** <small>MS3</small>
-
-- **Rachel Engelberg** <small>MS2</small>
 
 - **Amish Patel** <small>MS3</small>
 
 - **Ariel Engelman** <small>MS2</small>
 
+- **Brian Quaranto** <small>MS3</small>
+
 - **Chris Manschreck** <small>MS3</small>
+
+- **Diva Wilson** <small>MS3</small>
 
 - **Frank Marino** <small>MS4</small>
 
+- **Kathleen Soltis** <small>MS3</small>
+
 - **Katie Wood** <small>MS2</small>
+
+- **Lauren Jepson** <small>MS4</small>
 
 - **Madeline Rose** <small>MS3</small>
 
@@ -61,6 +59,8 @@ permalink: /evaluators/
 
 - **Nora Serghany** <small>MS2</small>
 
+- **Rachel Engelberg** <small>MS2</small>
+
 - **Rebeccah Stevens** <small>MS2</small>
 
 - **Remon Bebawee** <small>MS2</small>
@@ -68,5 +68,7 @@ permalink: /evaluators/
 - **Russell Van Coevering** <small>MS4</small>
 
 - **Sarah-Grace Carbrey** <small>MS2</small>
+
+- **Sarah Riley** <small>MS4</small>
 
 - **Sung Jun Ma** <small>MS2</small>
