@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Volunteer Evaluators
-permalink: /evaluators/
+permalink: /volunteers/
 ---
 
 - **Dr. Kim Griswold** <small>MD MPH</small>
