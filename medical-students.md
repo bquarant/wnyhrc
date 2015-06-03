@@ -11,6 +11,8 @@ Medical students will serve as scribes during this process. This requires them t
 
 Students must undergo formal training at a Physicians for Human Rights Asylum Training event prior to serving as a medical scribe for the WNYHRC. These training events are full day conferences designed to educate medical students, physicians, lawyers, and other professionals how to effectively investigate and document torture in asylum-seekers. Those who attend the training sessions are taught about immigration law, the asylum process, and how to properly identify physical and psychological sequelae of trauma and torture.  
 
+More information about upcoming trainings can be found here: <a href="http://physiciansforhumanrights.org/training/asylum/">Asylum Program at Physicians for Human Rights</a>
+
 <br>
 	
 ## Frequently Asked Questions
