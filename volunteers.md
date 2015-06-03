@@ -39,7 +39,7 @@ permalink: /volunteers/
 
 - **Lauren Jepson** <small>MS4</small>
 
-- **Madeline Rose** <small>MS3</small>
+- **Madeline Ryan** <small>MS3</small>
 
 - **Matt Bond** <small>MS2</small>
 
