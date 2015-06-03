@@ -18,9 +18,6 @@ permalink: /volunteers/
 
 ### Medical Student Scribes
 
-
-
-
 - **Amish Patel** <small>MS3</small>
 
 - **Ariel Engelman** <small>MS2</small>
