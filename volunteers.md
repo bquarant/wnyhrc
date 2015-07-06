@@ -32,7 +32,7 @@ permalink: /volunteers/
 
 - **Kathleen Soltis** <small>MS3</small>
 
-- **Katie Wood** <small>MS2</small>
+- **Katie Wood** <small>MS4</small>
 
 - **Lauren Jepson** <small>MS4</small>
 
