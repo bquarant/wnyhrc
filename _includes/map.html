@@ -12,7 +12,7 @@ function init() {
 
 function setMap() {
 
-  projection = d3.geo.mercator()   // define our projection with parameters
+  projection = d3.geo.orthographic()   // define our projection with parameters
     .scale(100)
     .translate([290, 160])
     .precision(.1);
