@@ -19,7 +19,7 @@
 
       .graticule {
         fill: none;
-        stroke: #777;
+        stroke: white;
         stroke-width: .5px;
         stroke-opacity: .5;
       }
@@ -34,7 +34,8 @@
         stroke-width: .5px;
       }
       .country {
-          fill: steelblue;
-          stroke: white;
+          fill: lightsteelblue;
+          stroke: #999;
+          stroke-width: 0.5px;
       }
 
