@@ -14,6 +14,6 @@ More information about upcoming trainings can be found here: <a href="http://phy
 <h3><strong>Upcoming Training Opportunities:</strong></h3> 
 We are excited to announce that HealthRight International will be holding a free, one-day training on <strong>Novemeber 14th 2015</strong> in 150 Farber Hall (Butler Auditorium) on UB's South Campus for physicians, medical students, lawyers, and psychologists who are interested in performing forensic evaluations. <strong>CME credits will be offered.</strong>
 <br>  
-If you are interested in attending, please sign up using the following link: http://www.wnyhrc.org/training
+If you are interested in attending, sign up at: <a href="http://www.wnyhrc.org/training">wnyhrc.org/training</a>
 <br>
 We hope to see you there!
