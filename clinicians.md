@@ -12,6 +12,11 @@ More information about upcoming trainings can be found here: <a href="http://phy
 <br>
 
 <h3><strong>Upcoming Training Opportunities:</strong></h3> 
-Physicians for Human Rights is conducting a two-part webinar training for child and adolescent mental health professionals on <strong>Wednesday, June 10, and Wednesday, June 17</strong>. This training is designed for mental health clinicians who are interested in working with Physicians for Human Rights to document psychological trauma in immigrant children – specifically the thousands of children who have escaped violence and abuse in Guatemala, El Salvador, and Honduras, and are seeking asylum in the United States.
+We are excited to announce that HealthRight International will be holding a one day training for physicians, medical students, lawyers, and psychologists who are interested in performing forensic evaluations. CME credits will be offered. 
+When: November 14th
+Where: Butler Auditorium, UB South Campus
+Cost: Free!
+If you are interested in attending, please sign up using the following link: http://www.wnyhrc.org/training
+We hope to see you there!
 	
 See more at: <a href="http://physiciansforhumanrights.org/training/asylum/#sthash.PbKFThL9.dpuf"> http://physiciansforhumanrights.org/training/asylum/#sthash.PbKFThL9.dpuf</a>
