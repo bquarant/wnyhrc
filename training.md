@@ -4,4 +4,4 @@ title: Training
 permalink: /training/
 ---
 
-We're sorry, registration has closed. Please contact wnyhrc@gmail.com if you have any questions.
+<meta http-equiv="refresh" content="0; URL='https://docs.google.com/forms/d/1BSpcM53CtL-Su0USUOo-YG7KINQHu292Ddp_RrdZJY0/viewform?usp=send_form'" />
