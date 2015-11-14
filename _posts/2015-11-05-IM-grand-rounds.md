@@ -7,5 +7,5 @@ published: true
 ---
 <br>
 <img src="{{ site.baseurl }}/img/events/IM-Grand-Rounds.png" width="100%">
-<br>
-<a href="{{ site.baseurl }}/assets/pdf/WNYHRC-Grand-Rounds-Internal-Medicine-2015.pdf">Download the high-resolution slides (50.1 MB)</a>	
+<br><br>	
+<a href="{{ site.baseurl }}/assets/pdf/WNYHRC-Grand-Rounds-Internal-Medicine-2015.pdf">Download the high-resolution slides (50.1 MB)</a>

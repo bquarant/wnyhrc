@@ -11,5 +11,3 @@ published: true
 <br>
 	
 <img src="{{ site.baseurl }}/img/events/TorontoPosterSession.jpg" width="100%">
-	
-<!-- write some copy! -->
