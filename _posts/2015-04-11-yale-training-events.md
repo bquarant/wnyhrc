@@ -13,4 +13,3 @@ Top Row (left to right): Nora Proops, Nicole Gaulin, Katie Wood, Nora Serghany, 
 Bottom Row (left to right): Russell Van Coevering, Jordan Katz, Frank Marino, Nick Palladino, Chris Manschreck, Megan Gaugler, Amish Patel, Madeline Ryan, Sarah-Grace Carbrey, Matt Bond, Remon Bebawee
 
 Not pictured: Nicholas Georgalas
-<!-- write some copy! -->
