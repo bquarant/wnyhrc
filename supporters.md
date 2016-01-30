@@ -4,7 +4,7 @@ title: Our Supporters
 permalink: /supporters/
 ---
 <br>
-<h3>We would like to thank the following organizations for their financial contributions and other material support:</h3>
+<h3>We would like to thank the following organizations and individuals for their financial contributions and other material support:</h3>
 <br>
 <center><a href="http://www.subboard.com/"><img src="{{ site.baseurl }}/img/support/sbi.png" width="300"/></a></center>
 <br>
@@ -17,5 +17,7 @@ permalink: /supporters/
 <br>
 <center><a href="https://www.buffalo.edu/alumni.html"><img src="{{ site.baseurl }}/img/support/polity.gif" width="300"/></a></center>
 <center><h3><b>UB School of Medicine Polity</b></h3></center>
+<br>
+<center><h3><b>Dr. Dori Marshall MD</b></h3></center>
 <br><br>
 <center><h4><small>If you are interested in partnering with us in the future, please contact us at <a mailto="wnyhrc@gmail.com">wnyhrc@gmail.com</a>!</small></h4></center> 
