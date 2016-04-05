@@ -16,7 +16,7 @@ permalink: /student-directors/
 
 <img src="{{ site.baseurl }}/img/people/ksoltis.jpg" width="140"/> &nbsp;&nbsp; **Kathleen Soltis**
 
-<img src="{{ site.baseurl }}/img/people/FullSizeRender.jpg" width="140"/> &nbsp;&nbsp; **Brian Quaranto**
+<img src="{{ site.baseurl }}/img/people/brianqua.jpg" width="140"/> &nbsp;&nbsp; **Brian Quaranto**
 
 <img src="{{ site.baseurl }}/img/people/cmanschr.jpg" width="140"/> &nbsp;&nbsp; **Chris Manschreck**
 
