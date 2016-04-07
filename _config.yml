@@ -1,9 +1,17 @@
 # Site settings
+<<<<<<< HEAD
 title: Human Rights Initiative @ UB
 email: admin@hribuffalo.org
 description: Human Rights Initiative @ UB
 baseurl: ""
 url: "http://hribuffalo.org"
+=======
+title: Human Rights Initiative at the University at Buffalo
+email: admin@hribuffalo.org
+description: Human Rights Initiative
+baseurl: ""
+url: "http://HRIBuffalo.org"
+>>>>>>> e01d6ee05c4bb415918ccecebf8715b4157f5831
 #twitter_username:
 #github_username:
 
