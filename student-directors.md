@@ -23,33 +23,39 @@ permalink: /student-directors/
 <br>
 
 ### Class of 2018
-**Sarah-Grace Carbrey**
+Sarah-Grace Carbrey
 
-**Laura Easton**
+Laura Easton
 
-**Rachel Engelberg**
+Rachel Engelberg
+
+
 
 
 ### Class of 2019
-**Brittany Cesar**
+Brittany Cesar
 
-**Carrie Gorka**
+Carrie Gorka
+
+
 
 
 ### Class of 2020
-**Anisha Chava**
+Anisha Chava
 
-**Greg Raczkowski**
+Greg Raczkowski
+
+
 
 
 ### Our Alumni
 
-**Sarah Riley, Class of 2016**
+Sarah Riley, Class of 2016
 
-**Lauren Jepson, Class of 2016**
+Lauren Jepson, Class of 2016
 
-**Chris Manschreck, Class of 2017**
+Chris Manschreck, Class of 2017
 
-**Brian Quaranto, Class of 2017**
+Brian Quaranto, Class of 2017
 
-**Kathleen Soltis, Class of 2017**
+Kathleen Soltis, Class of 2017
